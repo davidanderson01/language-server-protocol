@@ -1,8 +1,20 @@
 $('#small-nav-dropdown').change(function () {
-  window.location = $(this)
+  const selectedValue = $(this)
     .find('option:selected')
-    .val()
-})
+    .val();
+  if (selectedValue && isValidUrl(selectedValue)) {
+    window.location = selectedValue;
+  }
+});
+
+function isValidUrl(url) {
+  try {
+    const parsedUrl = new URL(url, window.location.origin);
+    return parsedUrl.protocol === "http:" || parsedUrl.protocol === "https:";
+  } catch (e) {
+    return false;
+  }
+}
 
 const site_tag = 'UA-62780441-30';
 function loadAnalytics(gtag) {
