@@ -1,51 +1,34 @@
-# Thank you for using Snapshots for AI
+# Support ElevateCraft
 
-Thanks for using Snapshots for AI. We hope this tool has helped you solve a problem or two.
+Thank you for using and supporting open source software!
 
-If you would like to support our work, please help us by considering the following offers and requests:
+## Sponsor ElevateCraft
 
-## Ways to Support
+ElevateCraft builds innovative solutions and maintains open source tools like this one. If you find our work helpful, please consider supporting us:
 
-### Join the GBTI Network!!! 🙏🙏🙏
+- **[Sponsor me on GitHub](https://github.com/sponsors/davidanderson01)**  
+  [![Sponsor on GitHub](https://img.shields.io/badge/Sponsor_on_GitHub-F7514A?style=for-the-badge&logo=github-sponsors&logoColor=white)](https://github.com/sponsors/davidanderson01)
 
-The GBTI Network is a community of developers who are passionate about open source and community-driven development. Members enjoy access to exclussive tools, resources, a private Minecraft server, a listing in our members directory, co-op opportunities and more.
+- **[Buy Me a Coffee](https://coff.ee/honnalulu0c)**  
+  [![Buy Me a Coffee](https://img.shields.io/badge/Buy_Me_a_Coffee-yellow?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://coff.ee/honnalulu0c)
 
-- Support our work by becoming a [GBTI Network member](https://gbti.network/membership/).
+- **Contact:** [support@elevatecraft.com](mailto:support@elevatecraft.com)
 
-### Try out BugHerd 🐛
+## Paid Support
 
-BugHerd is a visual feedback and bug-tracking tool designed to streamline website development by enabling users to pin feedback directly onto web pages. This approach facilitates clear communication among clients, designers, developers, and project managers.
+Need dedicated help or custom features? ElevateCraft offers professional support services for this project.
 
-- Start your free trial with [BugHerd](https://partners.bugherd.com/55z6c8az8rvr) today.
+- **Contact for paid support:** [support@elevatecraft.com](mailto:support@elevatecraft.com)
+- [Learn more at elevatecraft.com](https://elevatecraft.com)
 
-### Hire Developers from Codeable 👥
+Whether you need troubleshooting, integration help, feature development, or consulting, we're here to assist!
 
-Codeable connects you with top-tier professionals skilled in frameworks and technologies such as Laravel, React, Django, Node, Vue.js, Angular, Ruby on Rails, and Node.js. Don't let the WordPress focus discourage you. Codeable experts do it all.
+## Other Ways to Help
 
-- Visit [Codeable](https://www.codeable.io/developers/?ref=z8h3e) to hire your next team member.
-
-### Lead positive reviews on our marketplace listing ⭐⭐⭐⭐⭐
-
-- Rate us on [VSCode marketplace](https://marketplace.visualstudio.com/items?itemName=GBTI.snapshots-for-ai)
-- Review us on [Cursor marketplace](https://open-vsx.org/extension/GBTI/snapshots-for-ai)
-
-### Star Our GitHub Repository ⭐
-
-- Star and watch our [repository](https://github.com/gbti-network/vscode-snapshots-for-ai)
-
-### 📡 Stay Connected
-
-Follow us on your favorite platforms for updates, news, and community discussions:
-
-- **[Twitter/X](https://twitter.com/gbti_network)**
-- **[GitHub](https://github.com/gbti-network)**
-- **[YouTube](https://www.youtube.com/channel/UCh4FjB6r4oWQW-QFiwqv-UA)**
-- **[Dev.to](https://dev.to/gbti)**
-- **[Daily.dev](https://dly.to/zfCriM6JfRF)**
-- **[Hashnode](https://gbti.hashnode.dev/)**
-- **[Discord Community](https://gbti.network)**
-- **[Reddit Community](https://www.reddit.com/r/GBTI_network)**
+- **Star this repository** on GitHub
+- **Share this project** with your network
+- **Contribute code or feedback** via issues and pull requests
 
 ---
 
-Thank you for supporting open source software! 🙏
+Thank you for supporting ElevateCraft and open source innovation! �
